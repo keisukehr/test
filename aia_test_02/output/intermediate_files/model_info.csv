@@ -1,0 +1,4 @@
+﻿project_id,random_seed,model_id,model_rank,model_name,sample_pct,metric,cv_score,f1_score,precision,recall,image_path_impact
+5f85e73425132a0427978946,0,5f85ec192cca6f7ba982036e,1,ExtraTrees Classifier (Gini),80.0,AUC,0.6759700000000001,0.3580097087378641,0.2383838383838384,0.7186358099878197,../output/intermediate_files/feature_impacts_rank_1_ExtraTrees_Classifier_(Gini).png
+5f85e73425132a0427978946,0,5f85ed32d767be76cd3b16c2,2,AVG Blender,80.0,AUC,0.6758900000000001,0.3563054046325422,0.2328101644245142,0.758830694275274,../output/intermediate_files/feature_impacts_rank_2_AVG_Blender.png
+5f85e73425132a0427978946,0,5f85ed33d767be76cd3b16c8,3,ENET Blender,80.0,AUC,0.675622,0.3567753001715266,0.23309675009338812,0.7600487210718636,../output/intermediate_files/feature_impacts_rank_3_ENET_Blender.png
